@@ -14,5 +14,6 @@ public class AccountExampleTest {
             boolean isvalid = accountExample.validate(account);
             System.out.println("Account is " + account +" is valid: "+ isvalid);
         }
+        
     }
 }
