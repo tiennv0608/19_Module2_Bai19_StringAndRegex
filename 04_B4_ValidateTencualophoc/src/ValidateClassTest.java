@@ -1,6 +1,6 @@
 public class ValidateClassTest {
     private static ValidateClass validateClass;
-    private static final String[] validClass = {"C0318G", "C0321G"};
+    private static final String[] validClass = {"C0318G", "A0321G"};
     private static final String[] invalidClass = {"M0318G", "P0323A"};
 
     public static void main(String[] args) {
